@@ -1,0 +1,56 @@
+[
+	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 122,
+		"common": 1
+	},
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 508,
+		"common": 2
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 105,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 142,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 618911472,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227925399,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137211922,
+		"common": 1
+	}
+]

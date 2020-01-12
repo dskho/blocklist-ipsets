@@ -1,0 +1,38 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 61346,
+		"common": 4
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 147,
+		"common": 4
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 808,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227925399,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338109022,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137211922,
+		"common": 2
+	}
+]

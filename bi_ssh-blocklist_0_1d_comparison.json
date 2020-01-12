@@ -1,0 +1,158 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2561,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 61346,
+		"common": 12
+	},
+	{
+		"name": "bi_badbots_0_1d",
+		"category": "attacks",
+		"ips": 14464,
+		"common": 6
+	},
+	{
+		"name": "bi_bruteforce_0_1d",
+		"category": "attacks",
+		"ips": 14600,
+		"common": 6
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 27040,
+		"common": 12
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 22635,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27659,
+		"common": 12
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 13153,
+		"common": 12
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 549,
+		"common": 1
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 111747,
+		"common": 3
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 4
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 23017,
+		"common": 11
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 20456,
+		"common": 11
+	},
+	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 531,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 35433,
+		"common": 12
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 41933,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9399963,
+		"common": 4
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672513,
+		"common": 1
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 65393,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227925399,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338109022,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137211922,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	}
+]

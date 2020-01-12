@@ -1,0 +1,164 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 61346,
+		"common": 4
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 21280,
+		"common": 8
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 2160,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 38361,
+		"common": 14
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 18190,
+		"common": 8
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 309,
+		"common": 4
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 13,
+		"common": 8
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 78,
+		"common": 14
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 159,
+		"common": 3
+	},
+	{
+		"name": "bi_proftpd_1_7d",
+		"category": "attacks",
+		"ips": 11,
+		"common": 7
+	},
+	{
+		"name": "bi_proftpd_2_30d",
+		"category": "attacks",
+		"ips": 71,
+		"common": 11
+	},
+	{
+		"name": "bi_pureftpd_0_1d",
+		"category": "attacks",
+		"ips": 65,
+		"common": 2
+	},
+	{
+		"name": "bi_pureftpd_1_7d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 4
+	},
+	{
+		"name": "bi_vsftpd_2_30d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27659,
+		"common": 8
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 427,
+		"common": 8
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 19447,
+		"common": 10
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1193746,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 35433,
+		"common": 10
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9399963,
+		"common": 10
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1180169,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 986,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137211922,
+		"common": 1
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1178998,
+		"common": 1
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 23385,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 152,
+		"common": 2
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"code": "AFRINIC",
+		"value": 2097152
+	},
+	{
+		"code": "APNIC",
+		"value": 2910976
+	},
+	{
+		"code": "AT",
+		"value": 8448
+	},
+	{
+		"code": "BR",
+		"value": 2560
+	},
+	{
+		"code": "CA",
+		"value": 512
+	},
+	{
+		"code": "GB",
+		"value": 768
+	},
+	{
+		"code": "IT",
+		"value": 6912
+	},
+	{
+		"code": "LACNIC",
+		"value": 9984
+	},
+	{
+		"code": "MD",
+		"value": 256
+	},
+	{
+		"code": "MX",
+		"value": 1280
+	},
+	{
+		"code": "US",
+		"value": 4096
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code": "AR",
+		"value": 256
+	},
+	{
+		"code": "BR",
+		"value": 7936
+	},
+	{
+		"code": "MD",
+		"value": 256
+	},
+	{
+		"code": "MU",
+		"value": 1
+	},
+	{
+		"code": "MX",
+		"value": 768
+	},
+	{
+		"code": "US",
+		"value": 16384
+	}
+]
